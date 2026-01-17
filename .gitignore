@@ -1,0 +1,15 @@
+.DS_Store
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environments
+venv/
+env/
+.venv/
+.vscode/
+*.swp
